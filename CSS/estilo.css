@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(254, 237, 254, 0.706);
+    margin: 0 auto; 
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(108, 108, 108);
+    text-align: center;
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: coral;
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 100%; 
+}
+
+.rodape{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-decoration: solid;
+    color: black;
+}
+
+.rodape img{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 50px;
+    height: 50px;
+}
